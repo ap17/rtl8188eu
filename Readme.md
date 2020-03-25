@@ -1,4 +1,4 @@
-rtl8188eu driver v5.3.9_28540.20180627
+rtl8188eu ( idVendor=0bda, idProduct=8179 ) driver v5.3.9_28540.20180627
 
 origin : https://github.com/aircrack-ng/rtl8188eus
 
