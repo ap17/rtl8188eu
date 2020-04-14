@@ -2,7 +2,7 @@ rtl8188eu ( idVendor=0bda, idProduct=8179 ) driver v5.3.9_28540.20180627
 
 origin : https://github.com/aircrack-ng/rtl8188eus
 
-Currently (march 2020) used by me on Xunlong Orange OPi H3 and H5 with Linux 5.6, Debian 10. Works great both in access point mode and in infrastructure mode.
+Currently (april 2020) used by me on Xunlong Orange OPi H2+, H3 and H5 with Linux 5.7.rc1, Debian 10. Works great both in access point mode and in infrastructure mode.
 
 This driver must be built in "in-tree" mode.
 
